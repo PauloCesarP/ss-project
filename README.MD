@@ -1,5 +1,3 @@
-Aqui está um **README simples** e claro para o seu projeto **[ss‑project no GitHub](https://github.com/PauloCesarP/ss-project)**, baseado na estrutura atual do repositório (que é um tema WordPress provavelmente usando TailPress + Tailwind CSS):
-
 ---
 
 # ss-project
