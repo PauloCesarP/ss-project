@@ -1,62 +1,60 @@
-ss-project
+Aqui está um **README simples** e claro para o seu projeto **[ss‑project no GitHub](https://github.com/PauloCesarP/ss-project)**, baseado na estrutura atual do repositório (que é um tema WordPress provavelmente usando TailPress + Tailwind CSS):
 
-Um tema WordPress iniciado com TailPress e Tailwind CSS, pronto para desenvolvimento de sites rápidos e modernos usando as ferramentas modernas de frontend.
+---
 
-🧠 Visão geral
+# ss-project
 
-Este projeto é um tema WordPress personalizado, baseado no framework TailPress, que combina a estrutura do WordPress com o utilitário de estilos do Tailwind CSS para facilitar o desenvolvimento de layouts responsivos e flexíveis.
+Um tema **WordPress** iniciado com **TailPress** e **Tailwind CSS**, pronto para desenvolvimento de sites rápidos e modernos usando as ferramentas modernas de frontend.
 
-🚀 Funcionalidades principais
+## 🧠 Visão geral
 
-Estrutura de tema WordPress completa (templates de página, cabeçalho, rodapé, etc.)
+Este projeto é um **tema WordPress** personalizado, baseado no framework **TailPress**, que combina a estrutura do WordPress com o utilitário de estilos do **Tailwind CSS** para facilitar o desenvolvimento de layouts responsivos e flexíveis.
 
-Suporte integrado para estilos com Tailwind CSS
+## 🚀 Funcionalidades principais
 
-Páginas padrões já definidas como:
+* Estrutura de tema WordPress completa (templates de página, cabeçalho, rodapé, etc.)
+* Suporte integrado para estilos com **Tailwind CSS**
+* Páginas padrões já definidas como:
 
-front-page.php
+  * `front-page.php`
+  * `page-about.php`
+  * `page-contact.php`
+  * `page-services.php`
+  * `page-projects.php`
+* Organização de arquivos em pastas como:
 
-page-about.php
+  * `inc/` para funções PHP reutilizáveis
+  * `src/` para scripts e estilos front-end
+  * `template-parts/` para partes de layout reutilizáveis
+* Arquivos de configuração para build com ferramentas modernas
 
-page-contact.php
+## 🛠️ Instalação
 
-page-services.php
+1. Clone o repositório:
 
-page-projects.php
+   ```bash
+   git clone https://github.com/PauloCesarP/ss-project.git
+   ```
+2. Copie para sua pasta de **temas do WordPress** (`wp-content/themes/ss-project`).
+3. Instale dependências (caso use npm/yarn):
 
-Organização de arquivos em pastas como:
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
+4. Compile os assets:
 
-inc/ para funções PHP reutilizáveis
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
+5. Ative o tema no painel do WordPress (Aparência → Temas).
 
-src/ para scripts e estilos front-end
+## 📦 Estrutura do projeto
 
-template-parts/ para partes de layout reutilizáveis
-
-Arquivos de configuração para build com ferramentas modernas
-
-🛠️ Instalação
-
-Clone o repositório:
-
-git clone https://github.com/PauloCesarP/ss-project.git
-
-Copie para sua pasta de temas do WordPress (wp-content/themes/ss-project).
-
-Instale dependências (caso use npm/yarn):
-
-npm install
-# ou
-yarn install
-
-Compile os assets:
-
-npm run dev
-# ou
-yarn dev
-
-Ative o tema no painel do WordPress (Aparência → Temas).
-
-📦 Estrutura do projeto
+```
 ss-project/
 ├── inc/                  # Funções PHP auxiliares
 ├── resources/            # Scripts, estilos e assets
@@ -67,16 +65,20 @@ ss-project/
 ├── theme.json            # Configurações do tema WordPress
 ├── vite.config.mjs       # Configuração do build (Vite)
 └── README.MD             # Este arquivo
-🧩 Requisitos
+```
+
+## 🧩 Requisitos
 
 Para desenvolvimento e uso:
 
-WordPress instalado (>= última versão)
+* WordPress instalado (>= última versão)
+* Node.js (para compilar assets com Tailwind/Vite)
+* Servidor local ou ambiente de produção com PHP e banco de dados
 
-Node.js (para compilar assets com Tailwind/Vite)
+## 📜 Licença
 
-Servidor local ou ambiente de produção com PHP e banco de dados
+Este projeto está licenciado sob a **MIT License** — veja o arquivo `LICENSE` para mais detalhes.
 
-📜 Licença
+---
 
-Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE para mais detalhes.
+Se quiser, posso também gerar um **README mais detalhado** (com badges, screenshots, instruções para deploy, etc.). Quer assim?
