@@ -1,0 +1,45 @@
+@theme {
+    --breakpoint-xs: 480px;
+    --breakpoint-sm: 640px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1280px;
+    --breakpoint-2xl: 1536px;
+
+    --font-inter: 'Inter', sans-serif;
+    --font-satoshi: 'Satoshi', sans-serif;
+    --font-satoshi-variable: 'Satoshi Variable', sans-serif;
+
+    --color-blue-50: var(--wp--preset--color--blue-50);
+    --color-blue-100: var(--wp--preset--color--blue-100);
+    --color-blue-200: var(--wp--preset--color--blue-200);
+    --color-blue-300: var(--wp--preset--color--blue-300);
+    --color-blue-700: var(--wp--preset--color--blue-700);
+    --color-blue-800: var(--wp--preset--color--blue-800);
+    --color-blue-900: var(--wp--preset--color--blue-900);
+    --color-blue-950: var(--wp--preset--color--blue-950);
+    
+    --color-neutral-50: var(--wp--preset--color--neutral-50);
+    --color-neutral-100: var(--wp--preset--color--neutral-100);
+    --color-neutral-200: var(--wp--preset--color--neutral-200);
+    --color-neutral-600: var(--wp--preset--color--neutral-600);
+    --color-neutral-700: var(--wp--preset--color--neutral-700);
+    --color-neutral-800: var(--wp--preset--color--neutral-800);
+    --color-neutral-900: var(--wp--preset--color--neutral-900);
+    --color-neutral-950: var(--wp--preset--color--neutral-950);
+
+
+    --text-display: var(--wp--preset--font-size--display);
+    --text-display-line-height: 110%;
+    --text-display-letter-spacing: -0.02em;
+    --text-2xl-40-120: var(--wp--preset--font-size--2xl-40-120);
+    --text-xl-32-140: var(--wp--preset--font-size--xl-32-140);
+    --text-l-28-140: var(--wp--preset--font-size--l-28-140);
+    --text-m-24-120: var(--wp--preset--font-size--m-24-120);
+    --text-s-20-130: var(--wp--preset--font-size--s-20-130);
+    --text-xs-16-150: var(--wp--preset--font-size--xs-16-150);
+    --text-large-18-140: var(--wp--preset--font-size--large-18-140);
+    --text-regular-16-150: var(--wp--preset--font-size--regular-16-150);
+    --text-small-14-150: var(--wp--preset--font-size--small-14-150);
+
+}

@@ -1,0 +1,150 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "layout": {
+      "contentSize": "1328px",
+      "wideSize": "1920px"
+    },
+    "color": {
+      "palette": [
+        {
+          "name": "Blue 50",
+          "slug": "blue-50",
+          "color": "#F0F7FF"
+        },
+        {
+          "name": "Blue 100",
+          "slug": "blue-100",
+          "color": "#D6E9FF"
+        },
+        {
+          "name": "Blue 200",
+          "slug": "blue-200",
+          "color": "#B8D9FF"
+        },
+        {
+          "name": "Blue 500",
+          "slug": "blue-500",
+          "color": "#339BFF"
+        },
+        {
+          "name": "Blue 700",
+          "slug": "blue-700",
+          "color": "#116FCC"
+        },
+        {
+          "name": "Blue 800",
+          "slug": "blue-800",
+          "color": "#0A5BB3"
+        },
+        {
+          "name": "Blue 900",
+          "slug": "blue-900",
+          "color": "#074B99"
+        },
+        {
+          "name": "Blue 950",
+          "slug": "blue-950",
+          "color": "#053169"
+        },
+        {
+          "name": "Neutral 50",
+          "slug": "neutral-50",
+          "color": "#F6F6F6"
+        },
+        {
+          "name": "Neutral 100",
+          "slug": "neutral-100",
+          "color": "#E5E6E5"
+        },
+        {
+          "name": "Neutral 200",
+          "slug": "neutral-200",
+          "color": "#CCCDCB"
+        },
+        {
+          "name": "Neutral 600",
+          "slug": "neutral-600",
+          "color": "#666765"
+        },
+        {
+          "name": "Neutral 700",
+          "slug": "neutral-700",
+          "color": "#4C4D4C"
+        },
+        {
+          "name": "Neutral 800",
+          "slug": "neutral-800",
+          "color": "#333432"
+        },
+        {
+          "name": "Neutral 900",
+          "slug": "neutral-900",
+          "color": "#191A19"
+        },
+        {
+          "name": "Neutral 950",
+          "slug": "neutral-950",
+          "color": "#0D0D0D"
+        }
+      ]
+    },
+    "typography": {
+      "lineHeight": true,
+      "letterSpacing": true,
+      "fontSizes": [
+        {
+          "name": "Display",
+          "slug": "display",
+          "size": "4rem"
+        },
+        {
+          "name": "2XL 40/120",
+          "slug": "2xl-40-120",
+          "size": "2.5rem"
+        },
+        {
+          "name": "XL 32/140",
+          "slug": "xl-32-140",
+          "size": "2rem"
+        },
+        {
+          "name": "L 28/140",
+          "slug": "l-28-140",
+          "size": "1.75rem"
+        },
+        {
+          "name": "M 24/120",
+          "slug": "m-24-120",
+          "size": "1.5rem"
+        },
+        {
+          "name": "S 20/130",
+          "slug": "s-20-130",
+          "size": "1.25rem"
+        },
+        {
+          "name": "XS 16/150",
+          "slug": "xs-16-150",
+          "size": "1rem"
+        },
+        {
+          "name": "Large 18/140",
+          "slug": "large-18-140",
+          "size": "1.125rem"
+        },
+        {
+          "name": "Regular 16/150",
+          "slug": "regular-16-150",
+          "size": "1rem"
+        },
+        {
+          "name": "Small 14/150",
+          "slug": "small-14-150",
+          "size": "0.875rem"
+        }
+      ]
+    }
+  }
+}

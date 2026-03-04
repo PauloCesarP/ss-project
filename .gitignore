@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+/node_modules
+/dist
+/vendor
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+.DS_Store
+
