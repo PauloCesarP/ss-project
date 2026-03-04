@@ -81,4 +81,3 @@ Este projeto está licenciado sob a **MIT License** — veja o arquivo `LICENSE`
 
 ---
 
-Se quiser, posso também gerar um **README mais detalhado** (com badges, screenshots, instruções para deploy, etc.). Quer assim?
